@@ -47,7 +47,9 @@ Start the process and observe filling, mixing, and discharge operations.
 			
 ## Output
 
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/1ed5f206-b58f-4b9b-9a19-50c2e48ac47d" />
 
+<img width="1462" height="903" alt="image" src="https://github.com/user-attachments/assets/6bc12877-aa37-449f-8e43-68448d1c05eb" />
 
 
 
@@ -66,4 +68,3 @@ Start the process and observe filling, mixing, and discharge operations.
 
 ## Result
 The mixer process was successfully monitored and controlled using SCADA software. The system automatically performed filling, mixing, and discharge operations according to the predefined sequence while displaying real-time process information on the SCADA screen.
-
